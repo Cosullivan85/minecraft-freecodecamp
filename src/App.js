@@ -1,11 +1,10 @@
-import { Canvas } from '@react-three/fiber';
+import { Canvas } from "@react-three/fiber";
 
 function App() {
   return (
     <>
-      <div>Outside Canvas</div>
-      <Canvas>
-      </Canvas>
+      <div>Hello World!</div>
+      <Canvas></Canvas>
     </>
   );
 }
